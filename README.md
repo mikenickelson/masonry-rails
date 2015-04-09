@@ -26,7 +26,7 @@ For random content generation
 * box maker
 * loremimages
 
-Latest masonry 3.2.2
+Latest masonry 3.3.0
 
 * masonry.min
 
